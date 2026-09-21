@@ -1,0 +1,214 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-f8e08883.webp",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/logo-horizontal-61431d3f.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-transparent-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/815eb092-ee8e-4461-aef4-564733439605/transparent-d6ffd87b-f613-4709-80d0-80286310b25a/logo-logo.png"
+    ],
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-transparent-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-mockup-mug-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-mockup-card-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-mockup-tshirt-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-mockup-box-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-mockup-mug-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-mockup-card-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-mockup-tshirt-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/121dd5b9-d6a9-4dd4-a885-07e4a2dd7ddf/horizontal-mockup-box-de05fd07-db95-4589-92a2-5fd9cddd3bda/logo-logo.png"
+      }
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-21T03:39:53.384Z",
+    "lastUpdated": "2026-09-21T07:19:19.599Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-61431d3f.png": "1pz9b5988g_1789969021278_file__EhfSKaRF3.png",
+      "/airo-assets/uploads/logo-horizontal-f8e08883.webp": "1pz9b5988g_1789975126820_file_sfs9lOJSwN.webp"
+    },
+    "uploadContentHash": "daf08d8dd75b161115e546ee99f1812f01d8b61411c3705a3c3f38d86262883b",
+    "naturalOrientation": "horizontal"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-favicon-4b998cc7.png",
+    "searchQuery": "",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cab9c97a-9504-46c5-91f8-2dc773ec99a9/session/2ae6546c-a97d-42f9-ba87-3085d21c27a0/favicon-transparent-8eb3adde-f8e5-42a9-a6bb-3dde4424a96b/logo-logo.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-21T03:40:18.308Z",
+    "lastUpdated": "2026-09-21T05:37:28.598Z",
+    "surfaceMode": "light",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-favicon-4b998cc7.png",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-favicon-4b998cc7.png": "1pz9b5988g_1789969021278_file__EhfSKaRF3.png"
+    },
+    "uploadContentHash": "8e880de8e8acc15ea969b18b94dca4a4ed09957ab6bde15995f25619ad09ce3d"
+  },
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1440,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-hero-c99e03e1.png",
+    "searchQuery": "calm ocean horizon clear blue sky",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2223439793",
+      "https://img1.wsimg.com/isteam/getty/1484733811",
+      "https://img1.wsimg.com/isteam/getty/2244326958",
+      "https://img1.wsimg.com/isteam/getty/2223771125",
+      "https://img1.wsimg.com/isteam/getty/2216007687"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-21T03:41:01.104Z",
+    "lastUpdated": "2026-09-21T05:37:41.140Z",
+    "alternativeGettyIds": [
+      "2223439793",
+      "1484733811",
+      "2244326958",
+      "2223771125",
+      "2216007687"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-hero-c99e03e1.png": "1pz9b5988g_1789969021284_file_Mr53ioQoIg.png"
+    },
+    "uploadContentHash": "f3a78f9ef1ee6de3e7e99c17acacfeea4c719cf95ecbb18346a894fc145dc60b",
+    "caption": "calm ocean horizon clear blue sky"
+  },
+  "pages/home/about-psychiatrist": {
+    "requestedSize": {
+      "width": 600,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-about-psychiatrist-bf88550c.png",
+    "searchQuery": "woman wearing glasses smiling indoors",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2031982379",
+      "https://img1.wsimg.com/isteam/getty/2272241528",
+      "https://img1.wsimg.com/isteam/getty/2280514466",
+      "https://img1.wsimg.com/isteam/getty/1758194422",
+      "https://img1.wsimg.com/isteam/getty/1481627958"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-21T03:41:02.161Z",
+    "lastUpdated": "2026-09-21T05:37:36.108Z",
+    "alternativeGettyIds": [
+      "2031982379",
+      "2272241528",
+      "2280514466",
+      "1758194422",
+      "1481627958"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-about-psychiatrist-bf88550c.png": "1pz9b5988g_1789968833214_file_2YxlZeU8S_.PNG"
+    },
+    "uploadContentHash": "535d64848274deff347fb59167fa1a8243ffbcb5d03970049153b499cc7fb360",
+    "caption": "woman wearing glasses smiling indoors"
+  },
+  "logo/primary": {
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-primary-011e283a.png",
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-primary-011e283a.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-primary-011e283a.png": "1pz9b5988g_1789969021278_file__EhfSKaRF3.png"
+    },
+    "uploadContentHash": "8e880de8e8acc15ea969b18b94dca4a4ed09957ab6bde15995f25619ad09ce3d",
+    "createdAt": "2026-09-21T05:37:28.598Z",
+    "lastUpdated": "2026-09-21T05:37:28.598Z",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-vertical-11ac182d.png",
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-11ac182d.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-vertical-11ac182d.png": "1pz9b5988g_1789969021278_file__EhfSKaRF3.png"
+    },
+    "uploadContentHash": "8e880de8e8acc15ea969b18b94dca4a4ed09957ab6bde15995f25619ad09ce3d",
+    "createdAt": "2026-09-21T05:37:28.598Z",
+    "lastUpdated": "2026-09-21T05:37:28.598Z",
+    "naturalOrientation": "vertical"
+  },
+  "pages/home/ripple": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-ripple-6f3e33b9.jpg",
+    "searchQuery": "concentric ripples in calm water",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-21T05:37:49.323Z",
+    "lastUpdated": "2026-09-21T05:37:49.323Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-ripple-6f3e33b9.jpg": "1pz9b5988g_1789968833245_file_WjUgKbM_Ht.jpg"
+    },
+    "uploadContentHash": "8287dc4a33ec18c45664f665eb2997ec3dcaba41c9e970608d1d2da7dd5fe6fe",
+    "caption": "concentric ripples in calm water"
+  },
+  "pages/home/watercolor": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-watercolor-4015e9cc.jpg",
+    "searchQuery": "abstract watercolor landscape turquoise layers",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-21T05:37:56.595Z",
+    "lastUpdated": "2026-09-21T05:37:56.595Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-watercolor-4015e9cc.jpg": "1pz9b5988g_1789968833226_file_sJo5V-p1ex.jpg"
+    },
+    "uploadContentHash": "59daaa71c702e063001787dbc3caef95000436abea5a8ad97d067185bace0683",
+    "caption": "abstract watercolor landscape turquoise layers"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "hero": {
+    "org": "WISE RECOVERY",
+    "headline": "Recovery-focused group programming for people living with serious mental illness and their families",
+    "body": "Wise Recovery offers a series of in-person, psychiatrist-led group sessions for people living with serious mental illness and their families. Sessions combine education, discussion, practical guidance, and advocacy around serious mental illness, treatment, recovery, and navigating the mental health system.",
+    "byline": "Created by psychiatrist Monica Slubicki, MD, the programs draw on her experience both providing psychiatric care and living with serious mental illness herself.",
+    "cta1": "Explore Programs",
+    "cta2": "Work With Wise Recovery"
+  },
+  "education": {
+    "eyebrow": "Education, Recovery & Advocacy",
+    "headline": "Understanding serious mental illness changes everything.",
+    "col1": "Wise Recovery programs are built on the belief that education is a cornerstone of recovery. When people living with serious mental illness — and the families who support them — understand what they are facing, they are better equipped to navigate treatment, advocate for themselves, and build meaningful lives.",
+    "col2": "Our sessions address the full landscape of serious mental illness: what it is, how it is treated, what recovery looks like, and how to work effectively with the mental health system. We bring clinical expertise and lived experience together in a format that is accessible, honest, and grounded in hope."
+  },
+  "programs": {
+    "eyebrow": "Group Programs",
+    "headline": "GROUP PROGRAMS",
+    "audiences": [
+      {
+        "id": "aud-1",
+        "title": "For People Living With Serious Mental Illness",
+        "items": [
+          {
+            "id": "pi-1",
+            "text": "Understanding your diagnosis and treatment options"
+          },
+          {
+            "id": "pi-2",
+            "text": "Navigating the mental health system"
+          },
+          {
+            "id": "pi-3",
+            "text": "Recovery planning and goal-setting"
+          },
+          {
+            "id": "pi-4",
+            "text": "Medication education and shared decision-making"
+          },
+          {
+            "id": "pi-5",
+            "text": "Advocacy and self-determination"
+          }
+        ]
+      },
+      {
+        "id": "aud-2",
+        "title": "For Families",
+        "items": [
+          {
+            "id": "fi-1",
+            "text": "Understanding serious mental illness"
+          },
+          {
+            "id": "fi-2",
+            "text": "How to support a loved one effectively"
+          },
+          {
+            "id": "fi-3",
+            "text": "Navigating the mental health system as a family"
+          },
+          {
+            "id": "fi-4",
+            "text": "Setting boundaries and caring for yourself"
+          },
+          {
+            "id": "fi-5",
+            "text": "Communication and crisis planning"
+          }
+        ]
+      }
+    ]
+  },
+  "featured": {
+    "label": "Featured Program",
+    "title": "Wise Recovery Transitions",
+    "subtitle": "A group program for people returning to everyday life after psychiatric hospitalization.",
+    "body": "Psychiatric hospitalization is a significant event. Returning home can feel disorienting, uncertain, and isolating. Wise Recovery Transitions is designed specifically for this moment — providing structured group support, practical education, and a community of people who understand what you are going through.",
+    "bullets": [
+      {
+        "id": "fp-1",
+        "text": "Designed for the post-hospitalization transition period"
+      },
+      {
+        "id": "fp-2",
+        "text": "Combines education, discussion, and peer connection"
+      },
+      {
+        "id": "fp-3",
+        "text": "Addresses medication, treatment, and recovery planning"
+      },
+      {
+        "id": "fp-4",
+        "text": "Led by a psychiatrist with clinical and lived experience"
+      },
+      {
+        "id": "fp-5",
+        "text": "Available for individuals and through healthcare organizations"
+      }
+    ],
+    "cta": "Learn About Transitions"
+  },
+  "organizations": {
+    "eyebrow": "For Organizations",
+    "headline": "Bring Wise Recovery groups to your organization",
+    "body": "Wise Recovery programs are designed to be delivered within healthcare and community settings. We work with hospitals, mental health practices, and community organizations to bring structured, psychiatrist-led group programming to the people they serve.",
+    "types": [
+      {
+        "id": "org-1",
+        "title": "Hospitals and health systems",
+        "desc": "Inpatient and outpatient programs, transition support, and patient and family education."
+      },
+      {
+        "id": "org-2",
+        "title": "Mental health practices and programs",
+        "desc": "Complement individual treatment with structured group education and recovery support."
+      },
+      {
+        "id": "org-3",
+        "title": "Community and nonprofit organizations",
+        "desc": "Bring evidence-informed programming to the communities you serve."
+      }
+    ],
+    "collab": "We offer consultation, program development, and ongoing collaboration to help organizations implement Wise Recovery groups effectively.",
+    "cta": "Discuss a Collaboration"
+  },
+  "profeducation": {
+    "eyebrow": "Professional Education",
+    "headline": "For clinicians and healthcare learners",
+    "body": "Wise Recovery offers educational content and programming for clinicians, trainees, and healthcare learners who want to deepen their understanding of serious mental illness, recovery, and patient and family perspectives. Our programs bring together clinical knowledge and lived experience in a way that is rarely available in formal training.",
+    "note": "Continuing education and training opportunities available."
+  },
+  "about": {
+    "eyebrow": "About",
+    "name": "Monica Slubicki, MD",
+    "title": "Psychiatrist · Founder",
+    "bio": "Monica Slubicki, MD is a psychiatrist who founded Wise Recovery to bring together her clinical expertise and her own lived experience with serious mental illness. She created Wise Recovery because she believes that people living with serious mental illness — and the families who love them — deserve access to honest, practical, psychiatrist-led education and support.",
+    "cta": "Read More"
+  },
+  "contact": {
+    "headline": "Questions about Wise Recovery?",
+    "body": "We welcome inquiries from individuals, families, clinicians, and organizations. Whether you are exploring programs for yourself or a loved one, or interested in bringing Wise Recovery to your organization, we would be glad to hear from you.",
+    "name": "Monica Slubicki, MD",
+    "email": "monica@wiserecovery.com",
+    "disclaimer": "Educational content only. Not medical advice."
+  }
+}
